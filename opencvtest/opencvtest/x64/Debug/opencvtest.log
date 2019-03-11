@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  opencvtest.cpp
+g:\学习文件\vs文件\opencvtest\opencvtest\opencvtest.cpp(24): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+  opencvtest.vcxproj -> G:\学习文件\VS文件\opencvtest\x64\Debug\opencvtest.exe

@@ -1,0 +1,4 @@
+﻿  convex.cpp
+g:\学习文件\vs文件\opencvtest\convex\convex.cpp(42): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+g:\学习文件\vs文件\opencvtest\convex\convex.cpp(43): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  convex.vcxproj -> G:\学习文件\VS文件\opencvtest\x64\Debug\convex.exe

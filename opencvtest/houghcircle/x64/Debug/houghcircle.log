@@ -1,0 +1,25 @@
+﻿  main.cpp
+g:\学习文件\vs文件\opencvtest\houghcircle\main.cpp(24): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+g:\学习文件\vs文件\opencvtest\houghcircle\main.cpp(24): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+g:\学习文件\vs文件\opencvtest\houghcircle\main.cpp(25): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+  houghcircle.vcxproj -> G:\学习文件\VS文件\opencvtest\x64\Debug\houghcircle.exe

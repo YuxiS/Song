@@ -1,0 +1,4 @@
+﻿D:\Visual studio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(PengZhangFuShi.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  pch.cpp
+  PengZhangFuShi.cpp
+  PengZhangFuShi.vcxproj -> G:\学习文件\VS文件\opencvtest\x64\Debug\erodeAnddilate.exe

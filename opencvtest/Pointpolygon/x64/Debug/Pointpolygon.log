@@ -1,0 +1,9 @@
+﻿  ploygon.cpp
+g:\学习文件\vs文件\opencvtest\pointpolygon\ploygon.cpp(35): warning C4244: “参数”: 从“size_t”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+g:\学习文件\vs文件\opencvtest\pointpolygon\ploygon.cpp(39): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+g:\学习文件\vs文件\opencvtest\pointpolygon\ploygon.cpp(53): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Pointpolygon.vcxproj -> G:\学习文件\VS文件\opencvtest\x64\Debug\Pointpolygon.exe

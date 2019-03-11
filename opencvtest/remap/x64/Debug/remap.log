@@ -1,0 +1,42 @@
+﻿  main.cpp
+g:\学习文件\vs文件\opencvtest\remap\main.cpp(32): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+g:\学习文件\vs文件\opencvtest\remap\main.cpp(33): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+g:\学习文件\vs文件\opencvtest\remap\main.cpp(40): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+g:\学习文件\vs文件\opencvtest\remap\main.cpp(41): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+g:\学习文件\vs文件\opencvtest\remap\main.cpp(48): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+g:\学习文件\vs文件\opencvtest\remap\main.cpp(49): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+g:\学习文件\vs文件\opencvtest\remap\main.cpp(57): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+g:\学习文件\vs文件\opencvtest\remap\main.cpp(58): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+  remap.vcxproj -> G:\学习文件\VS文件\opencvtest\x64\Debug\remap.exe

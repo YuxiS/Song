@@ -1,0 +1,45 @@
+﻿  histocalc.cpp
+g:\学习文件\vs文件\opencvtest\histocalc\histocalc.cpp(35): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+g:\学习文件\vs文件\opencvtest\histocalc\histocalc.cpp(38): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+g:\学习文件\vs文件\opencvtest\histocalc\histocalc.cpp(38): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+g:\学习文件\vs文件\opencvtest\histocalc\histocalc.cpp(39): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+g:\学习文件\vs文件\opencvtest\histocalc\histocalc.cpp(39): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+g:\学习文件\vs文件\opencvtest\histocalc\histocalc.cpp(40): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+g:\学习文件\vs文件\opencvtest\histocalc\histocalc.cpp(40): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  Histocalc.vcxproj -> G:\学习文件\VS文件\opencvtest\x64\Debug\Histocalc.exe
